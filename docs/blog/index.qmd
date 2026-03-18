@@ -1,0 +1,14 @@
+---
+title: Blog
+subtitle: Mostly Python and Data! Sometimes everything else.
+listing:
+  sort: "date desc"
+  contents: "posts/*/index.qmd"
+  sort-ui: false
+  filter-ui: false
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: true
+search: false
+---

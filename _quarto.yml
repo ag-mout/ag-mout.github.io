@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Andre Gustavo Moutinho"
+  open-graph: true
+  site-url: https://ag-mout.github.io
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd      
+      - about.qmd
+      - text: Blog
+        href: docs/blog/index.qmd
+    tools:
+    - icon: github
+      href: https://github.com/ag-mout
+      text: "GitHub: ag-mout"
+    - icon: rss
+      href: https://ag-mout.github.io/docs/blog/index.xml
+      text: Blog RSS
+        
+    
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+

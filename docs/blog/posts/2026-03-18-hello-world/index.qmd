@@ -1,0 +1,32 @@
+---
+title: Hello world
+subtitle: First post for testing the waters
+description: |
+  First post for testing the waters
+categories:
+  - Quarto
+  - Blog
+author: 
+    - name: "André Gustavo Moutinho"
+      url: "https://ag-mout.github.io"
+date: 3/18/2026
+# image: 
+# image-alt: 
+---
+
+# Hello World!
+
+A blog must have:
+
+- [x] auto dark mode
+- [x] github pages
+- [x] comments section
+- [ ] editable by the community
+- [ ] equations
+- [ ] Mermaid
+
+## Find out how to format it as list!
+Lets try an easier one:
+
+- one
+- two

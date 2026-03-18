@@ -1,0 +1,7 @@
+comments:
+  giscus:
+    repo: ag-mout/ag-mout
+    category: Blog
+title-block-banner: true
+toc-location: left
+search: false
