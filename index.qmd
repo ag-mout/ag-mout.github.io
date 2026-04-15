@@ -1,7 +1,14 @@
 ---
-title: "Andre Gustavo Moutinho"
+title: "André Gustavo Moutinho"
+repo-actions: false
+toc: false
 ---
+<style>
+div.toc-actions {visibility: hidden;}
+</style>
 
-This is a Quarto website.
+Hey there! I'm André (or Gustavo, I go by both). I'm a data builder working across different stages of the data lifecycle: Ingestion, Transformation, Delivery.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I've built custom ETL libraries, and dashboards for end users, web pages in django, and Flask APIs to communicate between different services! My passion is Mathematics and I enjoy building data inference, like risk simulation, time series forecasting, and classification (regressions, trees and neural networks).
+
+You can check a detailed history of my accomplishments at [Experience](/experience.qmd).

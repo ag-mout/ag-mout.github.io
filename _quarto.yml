@@ -8,20 +8,25 @@ website:
   repo-url: https://github.com/ag-mout/ag-mout.github.io
   issue-url: https://github.com/ag-mout/ag-mout.github.io/issues/new/choose
   repo-actions: [edit, issue]
+
   navbar:
     left:
-      - text: Home
-        href: index.qmd      
-      - about.qmd
-      - text: Blog
-        href: docs/blog/index.qmd
+      - text: About Me
+        href: index.qmd
+      - text: Experience
+        href: experience.qmd
+      # - text: Blog
+      #   href: docs/blog/index.qmd
     tools:
     - icon: github
       href: https://github.com/ag-mout
-      text: "GitHub: ag-mout"
-    - icon: rss
-      href: https://ag-mout.github.io/docs/blog/index.xml
-      text: Blog RSS
+      text: "GitHub"
+    # - icon: rss
+    #   href: https://ag-mout.github.io/docs/blog/index.xml
+    #   text: Blog RSS
+    - icon: linkedin
+      href: https://www.linkedin.com/in/agmoutinho
+      text: LinkedIn
         
     
 format:

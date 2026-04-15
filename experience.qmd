@@ -1,0 +1,63 @@
+---
+title: "Experience"
+# website:
+#   repo-url: none
+#   issue-url: none
+#   repo-actions: [none]
+repo-actions: false
+# toc: true
+
+---
+<style>
+div.toc-actions {visibility: hidden;}
+</style>
+
+# Professional Experience
+
+## Fabric (GYANT Acquisition)
+### Senior Data Engineer
+*February 2024 - August 2025 (1 year 7 months)*
+
+- Migrate data pipelines to dbt while supporting the original pipelines
+- Contributed to Retrieval-Augmented Generation (RAG) development and deployment
+
+## GYANT
+### Senior Data Analyst
+*July 2022 - February 2024 (1 year 8 months)*
+
+- Built scalable data pipelines using Python (MongoDB → PostgreSQL →
+Tableau)
+- ML developments: Measuring significant User Satisfaction Feedback, Predicting User Satisfaction with Linear Regression
+- Tableau SysAdmin
+- Led internal Tableau Community self-service initiative
+
+## Sonae MC (5 years 11 months)
+### Analytics Manager
+*December 2019 - July 2022 (2 years 8 months)*
+
+- Lead Data Analytics team
+- Grow people by investing in documentation and cross team collaboration
+- Research and build new solutions: Event driven data pipelines with webhooks, Django forms, human in the loop workflows
+
+### Project Management Technician
+*January 2018 - December 2019 (2 years)*
+
+- Build custom data solutions: Python, Flask, Microstrategy, SQL
+- Manage largest customers
+- Shape team best practices: version control (Git + TFS), CI/CD (Jenkins)
+
+### Data Analyst
+*September 2016 - January 2018 (1 year 5 months)*
+
+- Build and support data pipelines with Python+SQL.
+- Refactor 10s of P&L reports from Samba shares to 100s of API uploads: faster, better access control, less maintenance overhead
+
+## REN (Msc Thesis)
+*October 2015 - June 2016 (9 months)*
+
+- Developed time-series prediction models for river flow to optimize electricity production.
+
+# Education
+## Faculdade de Ciências da Universidade do Porto
+### Master of Science - MS, Engenharia Matemática (*lit.* Mathematical Engineering)  · (2011 - 2016)
+

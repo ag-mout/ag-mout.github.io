@@ -10,6 +10,7 @@ author:
     - name: "André Gustavo Moutinho"
       url: "https://ag-mout.github.io"
 date: 3/18/2026
+draft: true
 # image: 
 # image-alt: 
 ---
@@ -21,12 +22,30 @@ A blog must have:
 - [x] auto dark mode
 - [x] github pages
 - [x] comments section
-- [ ] editable by the community
-- [ ] equations
-- [ ] Mermaid
+- [x] editable by the community
+- [x] equations
+- [x] Mermaid
 
 ## Find out how to format it as list!
 Lets try an easier one:
 
 - one
 - two
+
+All it was missing was a line before the list! It's a requirement for `pandoc`.
+
+## equations
+Lets see it rendering properly:
+
+$$ x^2 + y^2 = 1 $$
+
+## mermaid
+Finally diagrams:
+
+```{mermaid}
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+  B --> C{Decision}
+  C --> D[Result one]
+  C --> E[Result two]
+```
