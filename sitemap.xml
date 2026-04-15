@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ag-mout.github.io/about.html</loc>
-    <lastmod>2026-03-18T23:48:29.681Z</lastmod>
+    <loc>https://ag-mout.github.io/index.html</loc>
+    <lastmod>2026-04-15T13:52:38.507Z</lastmod>
   </url>
   <url>
     <loc>https://ag-mout.github.io/docs/blog/index.html</loc>
-    <lastmod>2026-03-18T23:48:29.681Z</lastmod>
+    <lastmod>2026-04-15T13:52:38.507Z</lastmod>
   </url>
   <url>
-    <loc>https://ag-mout.github.io/index.html</loc>
-    <lastmod>2026-03-18T23:48:29.681Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ag-mout.github.io/docs/blog/posts/2026-03-18-hello-world/index.html</loc>
-    <lastmod>2026-03-18T23:48:29.681Z</lastmod>
+    <loc>https://ag-mout.github.io/experience.html</loc>
+    <lastmod>2026-04-15T13:52:38.507Z</lastmod>
   </url>
 </urlset>

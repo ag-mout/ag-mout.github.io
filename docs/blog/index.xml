@@ -9,47 +9,7 @@
 <link>https://ag-mout.github.io/docs/blog/</link>
 <atom:link href="https://ag-mout.github.io/docs/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.8.27</generator>
-<lastBuildDate>Wed, 18 Mar 2026 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>Hello world</title>
-  <dc:creator>André Gustavo Moutinho</dc:creator>
-  <link>https://ag-mout.github.io/docs/blog/posts/2026-03-18-hello-world/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-<section id="hello-world" class="level1">
-<h1>Hello World!</h1>
-<p>A blog must have:</p>
-<ul class="task-list">
-<li><label><input type="checkbox" checked="">auto dark mode</label></li>
-<li><label><input type="checkbox" checked="">github pages</label></li>
-<li><label><input type="checkbox" checked="">comments section</label></li>
-<li><label><input type="checkbox">editable by the community</label></li>
-<li><label><input type="checkbox">equations</label></li>
-<li><label><input type="checkbox">Mermaid</label></li>
-</ul>
-<section id="find-out-how-to-format-it-as-list" class="level2">
-<h2 class="anchored" data-anchor-id="find-out-how-to-format-it-as-list">Find out how to format it as list!</h2>
-<p>Lets try an easier one:</p>
-<ul>
-<li>one</li>
-<li>two</li>
-</ul>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>Quarto</category>
-  <category>Blog</category>
-  <guid>https://ag-mout.github.io/docs/blog/posts/2026-03-18-hello-world/</guid>
-  <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-</item>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Wed, 15 Apr 2026 13:52:56 GMT</lastBuildDate>
 </channel>
 </rss>

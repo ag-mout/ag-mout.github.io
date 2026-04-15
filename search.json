@@ -1,16 +1,51 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Andre Gustavo Moutinho",
+    "title": "André Gustavo Moutinho",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hey there! I’m André (or Gustavo, I go by both). I’m a data builder working across different stages of the data lifecycle: Ingestion, Transformation, Delivery.\nI’ve built custom ETL libraries, and dashboards for end users, web pages in django, and Flask APIs to communicate between different services! My passion is Mathematics and I enjoy building data inference, like risk simulation, time series forecasting, and classification (regressions, trees and neural networks).\nYou can check a detailed history of my accomplishments at Experience."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "February 2024 - August 2025 (1 year 7 months)\n\nMigrate data pipelines to dbt while supporting the original pipelines\nContributed to Retrieval-Augmented Generation (RAG) development and deployment\n\n\n\n\n\n\n\nJuly 2022 - February 2024 (1 year 8 months)\n\nBuilt scalable data pipelines using Python (MongoDB → PostgreSQL → Tableau)\nML developments: Measuring significant User Satisfaction Feedback, Predicting User Satisfaction with Linear Regression\nTableau SysAdmin\nLed internal Tableau Community self-service initiative\n\n\n\n\n\n\n\nDecember 2019 - July 2022 (2 years 8 months)\n\nLead Data Analytics team\nGrow people by investing in documentation and cross team collaboration\nResearch and build new solutions: Event driven data pipelines with webhooks, Django forms, human in the loop workflows\n\n\n\n\nJanuary 2018 - December 2019 (2 years)\n\nBuild custom data solutions: Python, Flask, Microstrategy, SQL\nManage largest customers\nShape team best practices: version control (Git + TFS), CI/CD (Jenkins)\n\n\n\n\nSeptember 2016 - January 2018 (1 year 5 months)\n\nBuild and support data pipelines with Python+SQL.\nRefactor 10s of P&L reports from Samba shares to 100s of API uploads: faster, better access control, less maintenance overhead\n\n\n\n\n\nOctober 2015 - June 2016 (9 months)\n\nDeveloped time-series prediction models for river flow to optimize electricity production."
+  },
+  {
+    "objectID": "experience.html#fabric-gyant-acquisition",
+    "href": "experience.html#fabric-gyant-acquisition",
+    "title": "Experience",
+    "section": "",
+    "text": "February 2024 - August 2025 (1 year 7 months)\n\nMigrate data pipelines to dbt while supporting the original pipelines\nContributed to Retrieval-Augmented Generation (RAG) development and deployment"
+  },
+  {
+    "objectID": "experience.html#gyant",
+    "href": "experience.html#gyant",
+    "title": "Experience",
+    "section": "",
+    "text": "July 2022 - February 2024 (1 year 8 months)\n\nBuilt scalable data pipelines using Python (MongoDB → PostgreSQL → Tableau)\nML developments: Measuring significant User Satisfaction Feedback, Predicting User Satisfaction with Linear Regression\nTableau SysAdmin\nLed internal Tableau Community self-service initiative"
+  },
+  {
+    "objectID": "experience.html#sonae-mc-5-years-11-months",
+    "href": "experience.html#sonae-mc-5-years-11-months",
+    "title": "Experience",
+    "section": "",
+    "text": "December 2019 - July 2022 (2 years 8 months)\n\nLead Data Analytics team\nGrow people by investing in documentation and cross team collaboration\nResearch and build new solutions: Event driven data pipelines with webhooks, Django forms, human in the loop workflows\n\n\n\n\nJanuary 2018 - December 2019 (2 years)\n\nBuild custom data solutions: Python, Flask, Microstrategy, SQL\nManage largest customers\nShape team best practices: version control (Git + TFS), CI/CD (Jenkins)\n\n\n\n\nSeptember 2016 - January 2018 (1 year 5 months)\n\nBuild and support data pipelines with Python+SQL.\nRefactor 10s of P&L reports from Samba shares to 100s of API uploads: faster, better access control, less maintenance overhead"
+  },
+  {
+    "objectID": "experience.html#ren-msc-thesis",
+    "href": "experience.html#ren-msc-thesis",
+    "title": "Experience",
+    "section": "",
+    "text": "October 2015 - June 2016 (9 months)\n\nDeveloped time-series prediction models for river flow to optimize electricity production."
+  },
+  {
+    "objectID": "experience.html#faculdade-de-ciências-da-universidade-do-porto",
+    "href": "experience.html#faculdade-de-ciências-da-universidade-do-porto",
+    "title": "Experience",
+    "section": "Faculdade de Ciências da Universidade do Porto",
+    "text": "Faculdade de Ciências da Universidade do Porto\n\nMaster of Science - MS, Engenharia Matemática (lit. Mathematical Engineering) · (2011 - 2016)"
   }
 ]
