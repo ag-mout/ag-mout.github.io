@@ -2,6 +2,15 @@
 title: "André Gustavo Moutinho"
 repo-actions: false
 toc: false
+about:
+  template: solana
+  links:
+    - icon: github
+      href: https://github.com/ag-mout
+      text: "GitHub"
+    - icon: linkedin
+      href: https://www.linkedin.com/in/agmoutinho
+      text: LinkedIn
 ---
 <style>
 div.toc-actions {visibility: hidden;}
